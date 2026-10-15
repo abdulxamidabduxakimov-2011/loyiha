@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mening Saytim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <header class="header">
+        <a href="#" class="logo">MeningSaytim</a>
+        <nav class="nav-menu">
+            <a href="#">Bosh sahifa</a>
+            <a href="#">Haqimda</a>
+            <a href="#">Aloqa</a>
+        </nav>
+        <a href="#" class="btn-login">Kirish</a>
+    </header>
+
+    <!-- ASOSIY QISM (HERO) -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Salom, men veb-dasturchiman</h1>
+            <p>Bu yerda siz o'zingiz haqingizda qisqacha ma'lumot yozishingiz mumkin. Saytimiz juda oddiy va tushunarli tuzilgan.</p>
+            <a href="#" class="btn-main">Batafsil</a>
+        </div>
+        <div class="hero-image">
+            <!-- Bu yerga o'z rasmingiz yoki biror rasm havolasini qo'yasiz -->
+            <img src="https://via.placeholder.com/400x300" alt="Rasm">
+        </div>
+    </section>
+
+</body>
+</html>
